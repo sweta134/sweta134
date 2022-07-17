@@ -15,13 +15,13 @@
 </h1>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 ---
 
 ### :woman_technologist: About Me :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sweta134&theme=highcontrast)](https://git.io/streak-stats) 
+
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Javascript Frameworks.
@@ -29,6 +29,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: In my free time, I explore new technologies and listen to music.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sweta-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sweta-upadhyay-369841196/)
+
+
 
 ---
 
@@ -59,7 +61,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sweta134&theme=highcontrast)](https://git.io/streak-stats)
+![Sweta's GitHub stats](https://github-readme-stats.vercel.app/api?username=sweta134&show_icons=true&theme=radical)
 <br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sweta134&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
