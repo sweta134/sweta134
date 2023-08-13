@@ -36,6 +36,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sweta-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sweta-upadhyay-369841196/)
 
 
+---
+
+### Github Trophies :
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sweta134&theme=onedark)](https://github.com/sweta134/github-profile-trophy)
+
+---
 
 ---
 
