@@ -79,3 +79,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sweta134&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+---
+
+### Open Source Contributions: 
+[![An image of @sweta134's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sweta134)](https://holopin.io/@sweta134)
+
